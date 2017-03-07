@@ -1,0 +1,12 @@
+p {
+  family-font: open-sans;
+  font-size: 20px;
+  text-align: center;
+}
+button {
+  padding: 10px 20px;
+  margin-top: 10px;
+}
+.button {
+    text-align: center;
+}
